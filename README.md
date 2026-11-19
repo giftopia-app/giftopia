@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="screenshots/icon.png" width="110" alt="Giftopia icon">
+  <img src="icon.png" width="110" alt="Giftopia icon">
 </p>
 
 <h1 align="center">Giftopia</h1>
@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="screenshots/leaderboard-fire.gif" width="480" alt="Leaderboard rotator with fire effects">
+  <img src="leaderboard-fire.gif" width="480" alt="Leaderboard rotator with fire effects">
 </p>
 
 ---
@@ -52,12 +52,12 @@
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="screenshots/app-leaderboards.png" width="49%" alt="Leaderboards page">
-  <img src="screenshots/app-gift-overlays.png" width="49%" alt="Gift overlays page">
+  <img src="app-leaderboards.png" width="49%" alt="Leaderboards page">
+  <img src="app-gift-overlays.png" width="49%" alt="Gift overlays page">
 </p>
 <p align="center">
-  <img src="screenshots/app-overlay-gallery.png" width="49%" alt="Overlay gallery">
-  <img src="screenshots/app-save-countdown.png" width="49%" alt="Save countdown">
+  <img src="app-overlay-gallery.png" width="49%" alt="Overlay gallery">
+  <img src="app-save-countdown.png" width="49%" alt="Save countdown">
 </p>
 
 ## 🚀 Getting started
